@@ -1,2 +1,2 @@
 # machine-learning
-Notebooks Colab diversos criados para treino
+Notebooks Colab diversos criados para treinar
